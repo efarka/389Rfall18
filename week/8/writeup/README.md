@@ -23,5 +23,7 @@ part 2
 2.	laz0rh4x
 3.	9, 11
 4.	see 389output.txt for output of the parser
-5.	cmsc389R-(c0rn3rst0ne_airl3s_to_the_m00n)
+5.	cmsc389R-(c0rn3rst0ne_airl3s_to_the_m00n) - found in png image
+CMSC389R-{h1dd3n-s3ct10n-1n-f1l3} - base 64 decode of ascii text
+
 
