@@ -1,0 +1,37 @@
+=========================================
+Hello there! Welcome to my hash workshop.
+=========================================
+Find me the sha224 hash of KjoVOyo3Aq
+>>> 
+Correct!
+Find me the sha384 hash of zducLjmT4U
+>>> 
+Correct!
+Find me the sha1 hash of lwPGsoVqJ3
+>>> 
+Correct!
+Find me the sha256 hash of jaodbJZ0Sq
+>>> 
+Correct!
+Find me the sha224 hash of CLKbl83GAK
+>>> 
+Correct!
+Find me the sha224 hash of jr6M0XU3lm
+>>> 
+Correct!
+Find me the md5 hash of hpJnYcEMnF
+>>> 
+Correct!
+Find me the sha512 hash of lp0lFvhqgH
+>>> 
+Correct!
+Find me the sha256 hash of PURSjXadK5
+>>> 
+Correct!
+Find me the sha224 hash of DfKTLuCK68
+>>> 
+Correct!
+1541757912
+1541757912
+You win! CMSC389R-{H4sh-5l!ngInG-h@sH3r}
+
