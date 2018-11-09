@@ -1,39 +1,29 @@
 Writeup 8 - Forensics II, Network Analysis and File Carving/Parsing
 =====
 
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION HERE*
+Name: Ethan Farkas
+Section: 0201
 
 I pledge on my honor that I have not given or received anyunauthorized assistance on this assignment or examination.
 
-Digital acknowledgement of honor pledge: *PUT YOUR NAME HERE*
+Digital acknowledgement of honor pledge: Ethan Farkas
 
 ## Assignment 8 Writeup
 
-### Part 1 (45 Pts)
-1.
+1. Yes, to 128.8.120.43, which is the umd csec club
+2. laz0rh4x, c0uchpot4doz
+3. 104.248.224.85, 142.93.118.186
+4. port 2749, they are connecting on from their ports 33794 and 2749
+5. Yes, their plans are happening tomorrow at 1500.
+6. Yes, they sent a google drive file called update.fpff. link is: https://drive.google.com/file/d/1McOX5WjeVHNLyTBNXqbOde7l8SAQ3DoI/view?usp=sharing
+7.They are going to see each other tomorrow.
 
-2.
+part 2
+1.	2018-10-24 at 20:40:07
+2.	laz0rh4x
+3.	9, 11
+4.	see 389output.txt for output of the parser
+5.	cmsc389R-(c0rn3rst0ne_airl3s_to_the_m00n) - found in png image
+CMSC389R-{h1dd3n-s3ct10n-1n-f1l3} - base 64 decode of ascii text
 
-3.
 
-4.
-
-5.
-
-6.
-
-7.
-
-### Part 2 (55 Pts)
-
-*Report your answers to the questions about parsing update.fpff below.*
-1.
-
-2.
-
-3.
-
-4.
-
-5.
